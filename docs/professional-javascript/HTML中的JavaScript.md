@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 2、HTML中的JavaScript
+# HTML中的JavaScript
 
 ## `<script>`元素
 
